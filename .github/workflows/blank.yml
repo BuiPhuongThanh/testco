@@ -10,4 +10,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Check commit 🧪
-        uses: adityaa30/check-commit@master
+        uses: BuiPhuongThanh/testwebhooks@main
